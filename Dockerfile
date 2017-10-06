@@ -1,4 +1,4 @@
-FROM thesheff17/docker_ruby
+FROM thesheff17/docker_ruby_source
 
 MAINTAINER Dan Sheffner <Dan@Sheffner.com>
 
